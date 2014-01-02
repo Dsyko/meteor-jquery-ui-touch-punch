@@ -4,5 +4,4 @@ Package.describe({
 
 Package.on_use(function (api){
 	api.add_files('touch-punch/jquery.ui.touch-punch.min.js', 'client');
-
 });

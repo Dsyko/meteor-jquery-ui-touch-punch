@@ -1,13 +1,8 @@
 {
 	"name": "jquery-ui-touch-punch",
 	"description": "Latest version of jquery-ui-touch-punch, packaged for Meteor",
-	"homepage": "https://github.com/Dsyko/meteor-jquery-ui-touch-punch",
-	"author": "David Sykora",
-	"version": "1.0.0",
-	"git": "https://github.com/Dsyko/meteor-jquery-ui-touch-punch.git",
-	"packages": {
-		"jquery": {},
-		"jquer-ui": {}
-
-	}
+	"homepage": "https://github.com/locksmithdon/meteor-jquery-ui-touch-punch",
+	"author": "Don Smith",
+	"version": "1.0.1",
+	"git": "https://github.com/locksmithdon/meteor-jquery-ui-touch-punch.git"
 }
