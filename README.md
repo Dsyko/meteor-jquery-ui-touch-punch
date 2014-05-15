@@ -1,8 +1,11 @@
 meteor-jquery-ui-touch-punch
 ============================
 
-jquery-ui-touch-punch in a meteor package
+##jquery-ui-touch-punch 0.2.3 in a meteor package
 
+###This package no longer lists jquery-ui as a dependency, you must add your own.
+
+Since there are multiple packages out there I will leave it to the user to decide which is best for them, or create their own custom version with only the components they need. You will need to add a jquery-ui package before this package in order for this to load correctly. Just make sure that your jquery-ui package is listed before this one in the .meteor/packages file. If you are using the 'jqueryui' package this may not work properly since that package uses build-fetcher to load jquery-ui
 
 # jQuery UI Touch Punch
 ## Touch Event Support for jQuery UI
