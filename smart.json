@@ -7,7 +7,7 @@
 	"git": "https://github.com/Dsyko/meteor-jquery-ui-touch-punch.git",
 	"packages": {
 		"jquery": {},
-		"jquer-ui": {}
+		"jquery-ui": {}
 
 	}
 }
