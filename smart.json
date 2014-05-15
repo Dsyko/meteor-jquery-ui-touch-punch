@@ -3,6 +3,6 @@
 	"description": "Latest version of jquery-ui-touch-punch, packaged for Meteor",
 	"homepage": "https://github.com/Dsyko/meteor-jquery-ui-touch-punch",
 	"author": "David Sykora",
-	"version": "1.2.3",
+	"version": "1.2.4",
 	"git": "https://github.com/Dsyko/meteor-jquery-ui-touch-punch.git"
 }
