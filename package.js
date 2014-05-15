@@ -3,6 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api){
-	api.use('jquery', 'client');
+	api.use('jquery');
 	api.add_files('touch-punch/jquery.ui.touch-punch.js', 'client');
 });
